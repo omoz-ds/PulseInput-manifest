@@ -1,5 +1,5 @@
 {
-  "version": "1.4.20",
-  "url": "https://github.com/omoz-ds/PulseInput/releases/download/v1.4.20/PulseInput_Setup.exe",
-  "notes": "## PulseInput v1.4.20\r\n\r\n- build: trigger v1.4.20 after workflow yaml fix\r\n- fix: YAML syntax error in build-release.yml (here-string)\r\n- build: trigger v1.4.20 - public manifest repo + MANIFEST_PAT\r\n- fix: point ManifestUrl to public PulseInput-manifest repo\r\n- chore: bump version to 1.4.20 [skip ci]\r\n- chore: update latest.json to v1.4.19 [skip ci]"
+  "version": "1.4.21",
+  "url": "https://github.com/omoz-ds/PulseInput/releases/download/v1.4.21/PulseInput_Setup.exe",
+  "notes": "## PulseInput v1.4.21\r\n\r\n- test: end-to-end auto-update test v1.4.20 -> v1.4.21\r\n- chore: bump version to 1.4.21 [skip ci]"
 }
