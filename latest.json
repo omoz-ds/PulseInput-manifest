@@ -1,0 +1,5 @@
+{
+  "version": "1.4.19",
+  "url": "https://github.com/omoz-ds/PulseInput/releases/download/v1.4.19/PulseInput_Setup.exe",
+  "notes": "## PulseInput v1.4.19\n\n- fix: update manifest now served from public repo\n- fix: raw.githubusercontent.com URL funktioniert jetzt korrekt"
+}
