@@ -1,5 +1,5 @@
 {
-  "version": "1.4.22",
-  "url": "https://github.com/omoz-ds/PulseInput-manifest/releases/download/v1.4.22/PulseInput_Setup.exe",
-  "notes": "## PulseInput v1.4.22\r\n\r\n- build: trigger v1.4.22 - fixed manifest upload\r\n- fix: ignore 422 when deleting non-existent tag in manifest repo"
+  "version": "1.4.23",
+  "url": "https://github.com/omoz-ds/PulseInput-manifest/releases/download/v1.4.23/PulseInput_Setup.exe",
+  "notes": "## PulseInput v1.4.23\r\n\r\n- build: trigger v1.4.23 - final auto-update test\r\n- chore: bump version to 1.4.23 [skip ci]\r\n- build: trigger v1.4.22 - fixed manifest upload\r\n- fix: ignore 422 when deleting non-existent tag in manifest repo"
 }
